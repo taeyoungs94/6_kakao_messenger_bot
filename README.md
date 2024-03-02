@@ -8,7 +8,7 @@ This repo helps you send the massive amount of text or image data to your friend
 3. 그룹톡에 보내고 싶다면, 그룹톡의 이름을 모두 다 영어로 명명한다.
 
 [주의점]
-1. bin 폴더 밑에 MainGUI.py를 싫행시킨다.
+1. bin 폴더 밑에 MainGUI.py를 실행시킨다.
 2. 스크린샷과 같은 정보들을 다 입력하고는, PC 카카오톡을 켠다.
 3. PC 카카오톡과 프로그램 화면이 반드시 서로 겹치지 않게 잘 위치시키고, "시작" 버튼을 누른다.
 4. 프로그램 작동시에 절대로, 마우스나 키보드 동작이 있어서는 안되며, 더블 모니터가 아닌 싱글 모니터 화면에서만 작동한다.
